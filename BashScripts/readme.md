@@ -86,3 +86,9 @@ Vim: preserving files...
 Vim: Finished.
 
 ## [vagrant@scriptbox ~]$ logout
+
+## $vagrant ssh scriptbox
+
+Last login: Mon May  6 18:43:40 2024 from 10.0.2.2
+
+[vagrant@scriptbos ~]$
