@@ -72,3 +72,5 @@ the
 ## vi /etc/hostname
 
 [root@scriptbox ~]#
+
+## [root@scriptbox ~]# hostname scriptbos
