@@ -85,4 +85,4 @@ Vim: Caught deadly signal HUP
 Vim: preserving files...
 Vim: Finished.
 
-## [vagrant@scriptbox ~]$
+## [vagrant@scriptbox ~]$ logout
