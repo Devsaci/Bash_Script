@@ -8,10 +8,10 @@ Bringing machine 'scriptbox' up with 'virtualbox' provider...
     scriptbox: Box Provider: virtualbox
     scriptbox: Box Version: >= 0
 ==> scriptbox: Loading metadata for box 'geerlingguy/centos7'
-    scriptbox: URL: https://vagrantcloud.com/api/v2/vagrant/geerlingguy/centos7  
+    scriptbox: URL: <https://vagrantcloud.com/api/v2/vagrant/geerlingguy/centos7>  
 ==> scriptbox: Adding box 'geerlingguy/centos7' (v1.2.27) for provider: virtualbox
-    scriptbox: Downloading: https://vagrantcloud.com/geerlingguy/boxes/centos7/versions/1.2.27/providers/virtualbox/unknown/vagrant.box
-    scriptbox: 
+    scriptbox: Downloading: <https://vagrantcloud.com/geerlingguy/boxes/centos7/versions/1.2.27/providers/virtualbox/unknown/vagrant.box>
+    scriptbox:
 ==> scriptbox: Successfully added box 'geerlingguy/centos7' (v1.2.27) for 'virtualbox'!
 ==> scriptbox: Importing base box 'geerlingguy/centos7'...
 ==> scriptbox: Matching MAC address for NAT networking...
@@ -36,20 +36,20 @@ Bringing machine 'scriptbox' up with 'virtualbox' provider...
     scriptbox: Warning: Connection reset. Retrying...
     scriptbox: Warning: Connection aborted. Retrying...
     scriptbox: Warning: Connection reset. Retrying...
-    scriptbox: 
-    scriptbox: Vagrant insecure key detected. Vagrant will automatically replace 
+    scriptbox:
+    scriptbox: Vagrant insecure key detected. Vagrant will automatically replace
     scriptbox: this with a newly generated keypair for better security.
-    scriptbox: 
+    scriptbox:
     scriptbox: Inserting generated public key within guest...
     scriptbox: Removing insecure key from the guest if it's present...
     scriptbox: Key inserted! Disconnecting and reconnecting using new SSH key...
 ==> scriptbox: Machine booted and ready!
 ==> scriptbox: Checking for guest additions in VM...
-    scriptbox: The guest additions on this VM do not match the installed version 
+    scriptbox: The guest additions on this VM do not match the installed version
 of
     scriptbox: VirtualBox! In most cases this is fine, but in rare cases it can  
     scriptbox: prevent things such as shared folders from working properly. If you see
-    scriptbox: shared folder errors, please make sure the guest additions within 
+    scriptbox: shared folder errors, please make sure the guest additions within
 the
     scriptbox: virtual machine match the version of VirtualBox you have installed on
     scriptbox: your host and reload your VM.
