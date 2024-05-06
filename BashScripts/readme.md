@@ -60,3 +60,7 @@ the
 ==> scriptbox: Configuring and enabling network interfaces...
 ==> scriptbox: Mounting shared folders...
     scriptbox: /vagrant => D:/Bash_Script
+
+## $ vagrant ssh scriptbox
+
+[vagrant@scriptbox ~]$
