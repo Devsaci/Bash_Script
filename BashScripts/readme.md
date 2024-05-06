@@ -79,10 +79,10 @@ the
 
 There are stopped jobs.
 
-## [root@scriptbox ~]# logout
+## [root@scriptbox ~]#logout
 
-Vim: Caught deadly signal HUP 
-Vim: preserving files... 
+Vim: Caught deadly signal HUP
+Vim: preserving files...
 Vim: Finished.
 
 ## [vagrant@scriptbox ~]$
