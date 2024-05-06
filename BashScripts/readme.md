@@ -64,3 +64,7 @@ the
 ## $ vagrant ssh scriptbox
 
 [vagrant@scriptbox ~]$
+
+## [vagrant@scriptbox ~]$ sudo -i
+
+[root@scriptbox ~]#
