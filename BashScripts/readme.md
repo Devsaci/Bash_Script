@@ -68,3 +68,7 @@ the
 ## [vagrant@scriptbox ~]$ sudo -i
 
 [root@scriptbox ~]#
+
+## vi /etc/hostname
+
+[root@scriptbox ~]#
